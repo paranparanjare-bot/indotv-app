@@ -1,0 +1,14 @@
+# Built files
+/build/
+/app/build/
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
